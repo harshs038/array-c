@@ -11,7 +11,7 @@ int main(){
     fun(arr);
     printf("After function call : %d\n", arr[0]);
     printf("Before function call : %d\n", arr[1]);
-
+   
 
 
     return 0;
